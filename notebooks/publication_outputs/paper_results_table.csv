@@ -1,0 +1,6 @@
+analysis,unit,n,metric,estimate,status
+Imaging dataset,paired CT cases,5,case count,5.0,DESCRIPTIVE; not a validation cohort
+Tumour segmentation,case-level,0,Dice,,NOT ESTIMABLE
+Detection model artifact,metadata source samples,545,ROC-AUC,1.0,TRAINING METADATA ONLY
+Detection model artifact,metadata source samples,545,Accuracy,1.0,TRAINING METADATA ONLY
+Survival model,subject-level,0,C-index,,NOT ESTIMABLE

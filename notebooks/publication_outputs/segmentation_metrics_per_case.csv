@@ -1,0 +1,6 @@
+structure,metric,estimate,status
+tumour,Dice,,NOT ESTIMABLE: no predicted masks found
+tumour,IoU,,NOT ESTIMABLE: no predicted masks found
+tumour,sensitivity,,NOT ESTIMABLE: no predicted masks found
+tumour,specificity,,NOT ESTIMABLE: no predicted masks found
+tumour,HD95 (mm),,NOT ESTIMABLE: no predicted masks found

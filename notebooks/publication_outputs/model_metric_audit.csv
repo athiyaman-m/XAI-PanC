@@ -1,0 +1,3 @@
+task,metric,stored_value,n_tcga,n_gtex,status
+Detection,ROC-AUC,1.0,183,362,TRAINING METADATA ONLY; not a held-out test result
+Detection,Accuracy,1.0,183,362,TRAINING METADATA ONLY; not a held-out test result
